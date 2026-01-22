@@ -22,3 +22,7 @@ While I am unemployed and on a relatively small income, I plan to buy no more th
 
 Sincerely,
 karbytes
+
+(Post Script: I noticed that I made some mistakes in some of the older KARLINA_OBJECT_extension_pack micro-directories which are part of the collection named karbytes2026_0. In particular, I noticed that I failed to update the template-like text in the preparing_to_make_mdisc_set_on_01january2026 WordPress dot Com web page and accompanying plain-text file and hyper-text-markup-language source code file. Specifically, those karbytes2026_0 files appear to be describing karbytes2026_0 as the one and only folder encompassing the entire karbytes file collection when, in reality, the entire karbytes file collection (as of 11:59PM Pacific Standard Time on 21_JANUARY_2026) spans exactly two folders which are each no larger than 25 gigabytes. The first and oldest of those folders is named karbytes2025_22 and the second and newest of those folders is named karbytes2026_0)).
+
+(Post Post Script: The entire karbytes file collection (as of 11:59PM Pacific Standard Time on 21_JANUARY_2026) can fit on a minimum of two 25-gigabyte M_DISCs. The first of those discs contains exclusively the data collection named karbytes_origins (and karbytes_origins is essentially identical to the folder named karbytes2025_22). The second of those discs contains exclusively the data collection named karbytes_nexus (and karbytes_nexus contains the folder named karbytes2026_0)).

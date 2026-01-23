@@ -238,7 +238,12 @@ If a ZIP checksum stays the same across snapshots, that’s strong evidence the 
 
 If you want one tiny habit (no code changes) that reduces busy-work when comparing outputs: when you compare two checksum lists, sort them before diffing:
 
+[bash]
+
 sort older.txt > older.sorted.txt
 sort newer.txt > newer.sorted.txt
 diff -u older.sorted.txt newer.sorted.txt
+
+[end bash]
+
 That keeps your workflow intuition-first, but makes the checksum record “less noisy” whenever you need it.
